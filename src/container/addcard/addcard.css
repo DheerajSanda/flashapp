@@ -1,0 +1,33 @@
+.addcard-container {
+    cursor: pointer;
+    width: 30%;
+    margin-left: 35%;
+    align-items: center;
+    align-content: center;
+
+    border: 1px;
+    box-sizing: border-box;
+    display: block;
+    position: relative;
+  }
+
+  .addcard-container-inner {
+    cursor: pointer;
+    width: 30%;
+    margin-left: 25%;
+    align-items: center;
+    align-content: center;
+
+    border: 1px;
+    box-sizing: border-box;
+    display: block;
+    position: relative;
+  }
+
+  @media only screen and (min-width: 300px) {
+    addcard-container {
+      margin-left: 0%;
+      width: 0%;
+
+    }
+}

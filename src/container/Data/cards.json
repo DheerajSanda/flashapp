@@ -1,0 +1,25 @@
+{
+    "cards": [
+        {
+            "id": 1, 
+            "word": "unique", 
+            "meaning": "the single one of its kind"
+        },
+        {
+            "id": 2, 
+            "word": "lucid", 
+            "meaning": "transparently clear" 
+        },
+        {
+            "id": 3, 
+            "word": "ken", 
+            "meaning": "range of what one can know or understand"
+        },
+        {
+            "id": 4, 
+            "word": "fortitude", 
+            "meaning": "strength of mind that enables one to endure adversity" 
+        }
+          
+    ]
+}
